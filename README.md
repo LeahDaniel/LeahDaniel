@@ -1,4 +1,4 @@
-Hi! I’m Leah. I'm an apprentice at Nashville Software School, an amateur baker, a gamer, a sometimes-writer, and a lover of learning.
+Hi! I’m Leah. I'm an apprentice at Nashville Software School, graduating at the end of March 2022.
 
 I'm currently working on: Python, Django REST framework, React, and algorithmic thinking in Javascript.
 
